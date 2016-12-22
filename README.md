@@ -7,4 +7,4 @@ This homework is based on the [assignments](http://http://cs231n.github.io/) of 
 
 Note: the first assignment is neural network basics and is deliberately unchanged. It is still in `numpy` so just download the [original homework assignment 1](http://cs231n.github.io/assignments2016/assignment1/).
 
-This homework has a companion solution. Please contact Professor @zzhang-cn for details.
+This homework has a companion solution. Please contact Professor [@zzhang-cn](https://github.com/zzhang-cn) for details.
